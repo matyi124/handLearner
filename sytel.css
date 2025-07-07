@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+canvas {
+  border: 2px solid #333;
+  margin: 10px auto;
+  display: block;
+}
+
+.controls {
+  margin: 10px;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  width: 150px;
+}
+
+button {
+  margin-left: 5px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+#counts {
+  margin-top: 10px;
+}
